@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/heggi1234/heggi-sugiawan/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+http://sif.uin-suska.ac.id
+http://uin-suska.ac.id
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,9 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Heggi Sugiawan
+## Jurusan Sistem Informasi fakultas sains and teknologi
+### Alamat Rumbai
 
 - Bulleted
 - List
