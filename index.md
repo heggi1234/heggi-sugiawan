@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/heggi1234/heggi-sugiawan/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-http://sif.uin-suska.ac.id
+[SIF UIN SUSKA](http://sif.uin-suska.ac.id)
 
-http://uin-suska.ac.id
+[UIN SUSKA](http://uin-suska.ac.id)
 
 
 # Heggi Sugiawan
