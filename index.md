@@ -5,31 +5,13 @@ You can use the [editor on GitHub](https://github.com/heggi1234/heggi-sugiawan/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 http://sif.uin-suska.ac.id
+
 http://uin-suska.ac.id
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Heggi Sugiawan
-## Jurusan Sistem Informasi fakultas sains and teknologi
-### Alamat Rumbai
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Jurusan Sistem Informasi fakultas sains and teknologi
+# Alamat Rumbai
 
 ### Jekyll Themes
 
